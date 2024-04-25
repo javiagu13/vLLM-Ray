@@ -1,0 +1,6 @@
+You should store the llms in GTPQ or AWQ formats (Float16 recommended to avoid crashes) in this folder.
+
+In my case I originally had llama3, llama2, gemma 2b and kullm3. Change the python code to root your desired models.
+
+Enjoy :)
+
